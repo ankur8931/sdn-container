@@ -1,0 +1,2 @@
+2019-03-14 13:14:27 - open veth3420b84 fail -> veth3420b84: You don't have permission to capture on that device (socket: Operation not permitted)
+2019-03-14 13:14:32 - path:/home/ubuntu/sdn-container/tools/CICFlowMeter-4.0/bin/data/daily/2019-03-14_Flow.csv
